@@ -1,0 +1,27 @@
+Footer version:           1.0
+Image size:               33554432 bytes
+Original image size:      27512832 bytes
+VBMeta offset:            27512832
+VBMeta size:              1600 bytes
+--
+Minimum libavb version:   1.0
+Header Block:             256 bytes
+Authentication Block:     320 bytes
+Auxiliary Block:          1024 bytes
+Public key (sha1):        9d808b0995768d0677fccb1efcddb7cf9e153d99
+Algorithm:                SHA256_RSA2048
+Rollback Index:           2
+Flags:                    0
+Rollback Index Location:  0
+Release String:           'avbtool 1.2.0'
+Descriptors:
+    Hash descriptor:
+      Image Size:            27512832 bytes
+      Hash Algorithm:        sha256
+      Partition Name:        boot
+      Salt:                  7dbe3da081386523fbbb059c8b35fa871dd798d1b014bdc88d5c5e7ac3d094d0
+      Digest:                2b753db3356c3f2fe104f84e7641069645862863fcef4c48462c3e150fc656af
+      Flags:                 0
+    Prop: com.android.build.boot.fingerprint -> 'TECNO/KI7-GL/TECNO-KI7:12/SP1A.210812.016/231220V2999:user/release-keys'
+    Prop: com.android.build.boot.os_version -> '12'
+    Prop: com.android.build.boot.security_patch -> '2019-06-06'
