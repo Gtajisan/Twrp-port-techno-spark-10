@@ -3,7 +3,8 @@
 
 ## Download link check my release 
 `link`
- - 🙃♥ [ click here ](https://github.com/Gtajisan/Twrp-port-techno-spark-10/archive/refs/tags/v3.70.zip)
+ - 🙃♥ [ click here ](https://t.me/farhan_build/53)
+ - [support groups ](https://t.me/farhan_build)
 ***Enjoy***
  # work twrp on techno spark 10 pro device 
  `just flash annually `
