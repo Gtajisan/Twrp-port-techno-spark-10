@@ -3,7 +3,7 @@
 
 ## Download link check my release 
 `link`
- - 🙃♥ [ click here ](https://t.me/farhan_build/53)
+ - 🙃♥ [ twrp download link click here  ](https://t.me/farhan_build/53)
  - [support groups ](https://t.me/farhan_build)
 ***Enjoy***
  # work twrp on techno spark 10 pro device 
